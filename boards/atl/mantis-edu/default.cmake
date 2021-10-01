@@ -25,6 +25,7 @@ px4_add_board(
 		land_detector
 		load_mon
 		logger
+		mag_bias_estimator
 		mavlink
 		mc_att_control
 		mc_hover_thrust_estimator
